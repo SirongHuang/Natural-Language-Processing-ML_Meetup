@@ -3,7 +3,6 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 :exclamation:= Compulsory materials and assignments
 
 ## Supplimentary Material
----
 - [(Spacy) Advanced NLP](https://course.spacy.io/)
 - [Dan Jurafsky (NLP book)](https://web.stanford.edu/~jurafsky/slp3/)
 - [Manning (NLP course)](http://web.stanford.edu/class/cs224n/)
@@ -26,7 +25,6 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 - [Paper: Bias evaluation metrics](https://arxiv.org/pdf/1903.04561.pdf)
 
 ## Previous track Repo
----
 > For newcomers to catch up with Fastai library and basics of deep learning
 - [Deep learning track](https://github.com/SirongHuang/Deep-Learning-Track-ML_Meetup)
 - [Fastai course](https://course.fast.ai/index.html)
