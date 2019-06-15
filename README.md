@@ -21,7 +21,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 1. :exclamation: Explore kaggle dataset Jigsaw Unintended Bias in Toxicity Classification
 
 ## Week _ - Kaggle competition
-- [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview)]
+- [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview)
 - [Paper: Bias evaluation metrics](https://arxiv.org/pdf/1903.04561.pdf)
 
 ## Previous track Repo
