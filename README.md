@@ -24,7 +24,7 @@ Four week deep learning course + coding assignment --> Kaggle competition <br>
 - [Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview)
 - [Paper: Bias evaluation metrics](https://arxiv.org/pdf/1903.04561.pdf)
 
-## Previous track Repo
+## Materials for catching up
 > For newcomers to catch up with Fastai library and basics of deep learning
 - [Deep learning track](https://github.com/SirongHuang/Deep-Learning-Track-ML_Meetup)
 - [Fastai course](https://course.fast.ai/index.html)
